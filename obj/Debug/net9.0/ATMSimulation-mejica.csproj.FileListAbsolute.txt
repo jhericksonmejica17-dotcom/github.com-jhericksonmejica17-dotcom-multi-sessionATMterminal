@@ -1,0 +1,14 @@
+\\win-9u77nfs6td3\folder redirection\ihub24\My Documents\New folder (2)\ATMSimulation-mejica\bin\Debug\net9.0\ATMSimulation-mejica.exe
+\\win-9u77nfs6td3\folder redirection\ihub24\My Documents\New folder (2)\ATMSimulation-mejica\bin\Debug\net9.0\ATMSimulation-mejica.deps.json
+\\win-9u77nfs6td3\folder redirection\ihub24\My Documents\New folder (2)\ATMSimulation-mejica\bin\Debug\net9.0\ATMSimulation-mejica.runtimeconfig.json
+\\win-9u77nfs6td3\folder redirection\ihub24\My Documents\New folder (2)\ATMSimulation-mejica\bin\Debug\net9.0\ATMSimulation-mejica.dll
+\\win-9u77nfs6td3\folder redirection\ihub24\My Documents\New folder (2)\ATMSimulation-mejica\bin\Debug\net9.0\ATMSimulation-mejica.pdb
+\\win-9u77nfs6td3\folder redirection\ihub24\My Documents\New folder (2)\ATMSimulation-mejica\obj\Debug\net9.0\ATMSimulation-mejica.GeneratedMSBuildEditorConfig.editorconfig
+\\win-9u77nfs6td3\folder redirection\ihub24\My Documents\New folder (2)\ATMSimulation-mejica\obj\Debug\net9.0\ATMSimulation-mejica.AssemblyInfoInputs.cache
+\\win-9u77nfs6td3\folder redirection\ihub24\My Documents\New folder (2)\ATMSimulation-mejica\obj\Debug\net9.0\ATMSimulation-mejica.AssemblyInfo.cs
+\\win-9u77nfs6td3\folder redirection\ihub24\My Documents\New folder (2)\ATMSimulation-mejica\obj\Debug\net9.0\ATMSimulation-mejica.csproj.CoreCompileInputs.cache
+\\win-9u77nfs6td3\folder redirection\ihub24\My Documents\New folder (2)\ATMSimulation-mejica\obj\Debug\net9.0\ATMSimulation-mejica.dll
+\\win-9u77nfs6td3\folder redirection\ihub24\My Documents\New folder (2)\ATMSimulation-mejica\obj\Debug\net9.0\refint\ATMSimulation-mejica.dll
+\\win-9u77nfs6td3\folder redirection\ihub24\My Documents\New folder (2)\ATMSimulation-mejica\obj\Debug\net9.0\ATMSimulation-mejica.pdb
+\\win-9u77nfs6td3\folder redirection\ihub24\My Documents\New folder (2)\ATMSimulation-mejica\obj\Debug\net9.0\ATMSimulation-mejica.genruntimeconfig.cache
+\\win-9u77nfs6td3\folder redirection\ihub24\My Documents\New folder (2)\ATMSimulation-mejica\obj\Debug\net9.0\ref\ATMSimulation-mejica.dll
